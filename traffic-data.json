@@ -64,14 +64,14 @@
               "bearing": 121.0026451231571,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1619,
+              "vehicles": 1639,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 0,
-                "road_work": false,
+                "traffic_lights": 0,
+                "intersections": 1,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "134.92",
+              "occupancy_rate": "136.58",
               "traffic_status": "Bloqué"
             },
             {
@@ -88,15 +88,15 @@
               "bearing": 103.51558419974492,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 585,
+              "vehicles": 1567,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 0,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "48.75",
-              "traffic_status": "Fluide"
+              "occupancy_rate": "130.58",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "3",
@@ -112,14 +112,14 @@
               "bearing": 101.32682563284436,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1687,
+              "vehicles": 1482,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 2,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "140.58",
+              "occupancy_rate": "123.50",
               "traffic_status": "Bloqué"
             },
             {
@@ -136,14 +136,14 @@
               "bearing": 92.45772262295532,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 932,
+              "vehicles": 1097,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 1,
                 "intersections": 0,
                 "road_work": false,
-                "accidents": false
+                "accidents": true
               },
-              "occupancy_rate": "77.67",
+              "occupancy_rate": "91.42",
               "traffic_status": "Moyen"
             },
             {
@@ -160,15 +160,15 @@
               "bearing": 98.54366560970732,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1183,
+              "vehicles": 1358,
               "traffic_conditions": {
                 "traffic_lights": 1,
                 "intersections": 0,
-                "road_work": false,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "98.58",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "113.17",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "6",
@@ -184,14 +184,14 @@
               "bearing": 104.95331840598652,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1378,
+              "vehicles": 1251,
               "traffic_conditions": {
                 "traffic_lights": 0,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "114.83",
+              "occupancy_rate": "104.25",
               "traffic_status": "Bloqué"
             },
             {
@@ -208,20 +208,20 @@
               "bearing": 98.54366266878657,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1740,
+              "vehicles": 1214,
               "traffic_conditions": {
                 "traffic_lights": 0,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "145.00",
+              "occupancy_rate": "101.17",
               "traffic_status": "Bloqué"
             }
           ],
           "distance_km": 0.12099621190118746,
           "id": "Route 1",
-          "avg_occupancy_rate": "108.62",
+          "avg_occupancy_rate": "114.38",
           "traffic_status": "Bloqué"
         },
         {
@@ -240,14 +240,14 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1387,
+              "vehicles": 1800,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 1,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "115.58",
+              "occupancy_rate": "150.00",
               "traffic_status": "Bloqué"
             },
             {
@@ -264,15 +264,15 @@
               "bearing": 140.23769188837662,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 969,
+              "vehicles": 1212,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 0,
+                "traffic_lights": 0,
+                "intersections": 1,
                 "road_work": false,
-                "accidents": true
+                "accidents": false
               },
-              "occupancy_rate": "80.75",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "101.00",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "10",
@@ -288,14 +288,14 @@
               "bearing": 106.72346376709277,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1393,
+              "vehicles": 1568,
               "traffic_conditions": {
                 "traffic_lights": 2,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "116.08",
+              "occupancy_rate": "130.67",
               "traffic_status": "Bloqué"
             },
             {
@@ -312,15 +312,15 @@
               "bearing": 106.72346194999858,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1542,
+              "vehicles": 912,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 1,
-                "road_work": false,
+                "traffic_lights": 2,
+                "intersections": 0,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "128.50",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "76.00",
+              "traffic_status": "Moyen"
             },
             {
               "id": "12",
@@ -336,14 +336,14 @@
               "bearing": 73.27651586331848,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1636,
+              "vehicles": 1514,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 0,
+                "traffic_lights": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "136.33",
+              "occupancy_rate": "126.17",
               "traffic_status": "Bloqué"
             },
             {
@@ -360,14 +360,14 @@
               "bearing": 39.76229588208275,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1317,
+              "vehicles": 1365,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 0,
+                "traffic_lights": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "109.75",
+              "occupancy_rate": "113.75",
               "traffic_status": "Bloqué"
             },
             {
@@ -384,14 +384,14 @@
               "bearing": 29.017251735209072,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1800,
+              "vehicles": 1310,
               "traffic_conditions": {
                 "traffic_lights": 2,
-                "intersections": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "150.00",
+              "occupancy_rate": "109.17",
               "traffic_status": "Bloqué"
             },
             {
@@ -408,15 +408,15 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1251,
+              "vehicles": 946,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 0,
+                "traffic_lights": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "104.25",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "78.83",
+              "traffic_status": "Moyen"
             },
             {
               "id": "16",
@@ -432,15 +432,15 @@
               "bearing": 46.12512444027669,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 852,
+              "vehicles": 1329,
               "traffic_conditions": {
                 "traffic_lights": 0,
-                "intersections": 0,
-                "road_work": true,
-                "accidents": true
+                "intersections": 1,
+                "road_work": false,
+                "accidents": false
               },
-              "occupancy_rate": "71.00",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "110.75",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "17",
@@ -456,14 +456,14 @@
               "bearing": 55.519896447730275,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1307,
+              "vehicles": 1658,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 1,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "108.92",
+              "occupancy_rate": "138.17",
               "traffic_status": "Bloqué"
             },
             {
@@ -480,14 +480,14 @@
               "bearing": 55.51988400343299,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 919,
+              "vehicles": 1083,
               "traffic_conditions": {
                 "traffic_lights": 1,
-                "intersections": 0,
-                "road_work": true,
+                "intersections": 1,
+                "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "76.58",
+              "occupancy_rate": "90.25",
               "traffic_status": "Moyen"
             },
             {
@@ -504,15 +504,15 @@
               "bearing": 73.27646160876543,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 784,
+              "vehicles": 1394,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 0,
+                "traffic_lights": 1,
+                "intersections": 1,
                 "road_work": false,
-                "accidents": true
+                "accidents": false
               },
-              "occupancy_rate": "65.33",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "116.17",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "20",
@@ -528,15 +528,15 @@
               "bearing": 71.8520355172966,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1561,
+              "vehicles": 1075,
               "traffic_conditions": {
                 "traffic_lights": 0,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
-                "accidents": true
+                "accidents": false
               },
-              "occupancy_rate": "130.08",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "89.58",
+              "traffic_status": "Moyen"
             },
             {
               "id": "21",
@@ -552,15 +552,15 @@
               "bearing": 78.0254864648582,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1011,
+              "vehicles": 1359,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 0,
+                "traffic_lights": 0,
+                "intersections": 1,
                 "road_work": false,
-                "accidents": false
+                "accidents": true
               },
-              "occupancy_rate": "84.25",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "113.25",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "22",
@@ -576,15 +576,15 @@
               "bearing": 81.4562665062856,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1087,
+              "vehicles": 1461,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 1,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "90.58",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "121.75",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "23",
@@ -600,20 +600,20 @@
               "bearing": 106.72350687384142,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1127,
+              "vehicles": 1800,
               "traffic_conditions": {
                 "traffic_lights": 1,
                 "intersections": 0,
-                "road_work": false,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "93.92",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "150.00",
+              "traffic_status": "Bloqué"
             }
           ],
           "distance_km": 0.10091792924302143,
           "id": "Route 2",
-          "avg_occupancy_rate": "103.87",
+          "avg_occupancy_rate": "113.47",
           "traffic_status": "Bloqué"
         },
         {
@@ -632,14 +632,14 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1517,
+              "vehicles": 1278,
               "traffic_conditions": {
                 "traffic_lights": 1,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "126.42",
+              "occupancy_rate": "106.50",
               "traffic_status": "Bloqué"
             },
             {
@@ -656,14 +656,14 @@
               "bearing": 51.29713926027915,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1495,
+              "vehicles": 1395,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 2,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "124.58",
+              "occupancy_rate": "116.25",
               "traffic_status": "Bloqué"
             },
             {
@@ -680,15 +680,15 @@
               "bearing": 51.29711974304615,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1024,
+              "vehicles": 1629,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 0,
+                "traffic_lights": 1,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "85.33",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "135.75",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "27",
@@ -704,14 +704,14 @@
               "bearing": 46.12500785964238,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1578,
+              "vehicles": 1800,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "131.50",
+              "occupancy_rate": "150.00",
               "traffic_status": "Bloqué"
             },
             {
@@ -728,14 +728,14 @@
               "bearing": 44.38850669404434,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1800,
+              "vehicles": 1646,
               "traffic_conditions": {
                 "traffic_lights": 1,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "150.00",
+              "occupancy_rate": "137.17",
               "traffic_status": "Bloqué"
             },
             {
@@ -752,14 +752,14 @@
               "bearing": 43.83239700295729,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1505,
+              "vehicles": 1624,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "125.42",
+              "occupancy_rate": "135.33",
               "traffic_status": "Bloqué"
             },
             {
@@ -776,15 +776,15 @@
               "bearing": 38.160855975448385,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1339,
+              "vehicles": 1036,
               "traffic_conditions": {
                 "traffic_lights": 0,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "111.58",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "86.33",
+              "traffic_status": "Moyen"
             },
             {
               "id": "31",
@@ -800,15 +800,15 @@
               "bearing": 44.65553250573646,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1370,
+              "vehicles": 963,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 0,
+                "traffic_lights": 1,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "114.17",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "80.25",
+              "traffic_status": "Moyen"
             },
             {
               "id": "32",
@@ -824,14 +824,14 @@
               "bearing": 43.832200462373976,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1702,
+              "vehicles": 1701,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 1,
                 "intersections": 0,
-                "road_work": true,
+                "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "141.83",
+              "occupancy_rate": "141.75",
               "traffic_status": "Bloqué"
             },
             {
@@ -848,15 +848,15 @@
               "bearing": 39.76173713913482,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1062,
+              "vehicles": 1419,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "88.50",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "118.25",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "34",
@@ -872,14 +872,14 @@
               "bearing": 43.43459937536409,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1721,
+              "vehicles": 1233,
               "traffic_conditions": {
                 "traffic_lights": 1,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "143.42",
+              "occupancy_rate": "102.75",
               "traffic_status": "Bloqué"
             },
             {
@@ -896,14 +896,14 @@
               "bearing": 43.107755825884965,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1339,
+              "vehicles": 1394,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 1,
                 "intersections": 1,
                 "road_work": false,
-                "accidents": true
+                "accidents": false
               },
-              "occupancy_rate": "111.58",
+              "occupancy_rate": "116.17",
               "traffic_status": "Bloqué"
             },
             {
@@ -920,14 +920,14 @@
               "bearing": 41.53160319193972,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1509,
+              "vehicles": 1546,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 1,
+                "traffic_lights": 0,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "125.75",
+              "occupancy_rate": "128.83",
               "traffic_status": "Bloqué"
             },
             {
@@ -944,14 +944,14 @@
               "bearing": 44.82207564890774,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1460,
+              "vehicles": 1579,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 1,
                 "intersections": 0,
-                "road_work": true,
+                "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "121.67",
+              "occupancy_rate": "131.58",
               "traffic_status": "Bloqué"
             },
             {
@@ -968,14 +968,14 @@
               "bearing": 42.30298418845484,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1454,
+              "vehicles": 1579,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 2,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "121.17",
+              "occupancy_rate": "131.58",
               "traffic_status": "Bloqué"
             },
             {
@@ -992,15 +992,15 @@
               "bearing": 45.36704508913715,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 764,
+              "vehicles": 1383,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 2,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "63.67",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "115.25",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "40",
@@ -1016,14 +1016,14 @@
               "bearing": 44.95486254372503,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1209,
+              "vehicles": 1800,
               "traffic_conditions": {
                 "traffic_lights": 1,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "100.75",
+              "occupancy_rate": "150.00",
               "traffic_status": "Bloqué"
             },
             {
@@ -1040,14 +1040,14 @@
               "bearing": 29.01629303567563,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1221,
+              "vehicles": 1641,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
-                "accidents": true
+                "accidents": false
               },
-              "occupancy_rate": "101.75",
+              "occupancy_rate": "136.75",
               "traffic_status": "Bloqué"
             },
             {
@@ -1064,14 +1064,14 @@
               "bearing": 22.587820970635562,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1304,
+              "vehicles": 1278,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "108.67",
+              "occupancy_rate": "106.50",
               "traffic_status": "Bloqué"
             },
             {
@@ -1088,20 +1088,20 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1060,
+              "vehicles": 1465,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 1,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "88.33",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "122.08",
+              "traffic_status": "Bloqué"
             }
           ],
           "distance_km": 0.4921783300907147,
           "id": "Route 3",
-          "avg_occupancy_rate": "114.30",
+          "avg_occupancy_rate": "122.45",
           "traffic_status": "Bloqué"
         },
         {
@@ -1120,14 +1120,14 @@
               "bearing": 330.983738068888,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1243,
+              "vehicles": 1708,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "103.58",
+              "occupancy_rate": "142.33",
               "traffic_status": "Bloqué"
             },
             {
@@ -1144,14 +1144,14 @@
               "bearing": 328.03522455453145,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1355,
+              "vehicles": 1591,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 2,
                 "intersections": 0,
-                "road_work": false,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "112.92",
+              "occupancy_rate": "132.58",
               "traffic_status": "Bloqué"
             },
             {
@@ -1168,14 +1168,14 @@
               "bearing": 310.64598520596184,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1389,
+              "vehicles": 1673,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "115.75",
+              "occupancy_rate": "139.42",
               "traffic_status": "Bloqué"
             },
             {
@@ -1192,15 +1192,15 @@
               "bearing": 312.5860671937301,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1485,
+              "vehicles": 1193,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 1,
+                "traffic_lights": 2,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "123.75",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "99.42",
+              "traffic_status": "Moyen"
             },
             {
               "id": "48",
@@ -1216,15 +1216,15 @@
               "bearing": 319.130514891284,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 818,
+              "vehicles": 1215,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 0,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "68.17",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "101.25",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "49",
@@ -1240,15 +1240,15 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1358,
+              "vehicles": 755,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 2,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "113.17",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "62.92",
+              "traffic_status": "Moyen"
             },
             {
               "id": "50",
@@ -1264,14 +1264,14 @@
               "bearing": 44.954642520251696,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1777,
+              "vehicles": 1341,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 1,
-                "road_work": false,
+                "traffic_lights": 0,
+                "intersections": 0,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "148.08",
+              "occupancy_rate": "111.75",
               "traffic_status": "Bloqué"
             },
             {
@@ -1288,14 +1288,14 @@
               "bearing": 47.96766905911204,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1800,
+              "vehicles": 1439,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 0,
+                "traffic_lights": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "150.00",
+              "occupancy_rate": "119.92",
               "traffic_status": "Bloqué"
             },
             {
@@ -1312,15 +1312,15 @@
               "bearing": 39.760948628978554,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1264,
+              "vehicles": 986,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 1,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "105.33",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "82.17",
+              "traffic_status": "Moyen"
             },
             {
               "id": "53",
@@ -1336,14 +1336,14 @@
               "bearing": 22.587657816289607,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1493,
+              "vehicles": 1569,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 1,
+                "traffic_lights": 0,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "124.42",
+              "occupancy_rate": "130.75",
               "traffic_status": "Bloqué"
             },
             {
@@ -1360,14 +1360,14 @@
               "bearing": 22.587648362905043,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1511,
+              "vehicles": 1240,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 1,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "125.92",
+              "occupancy_rate": "103.33",
               "traffic_status": "Bloqué"
             },
             {
@@ -1384,15 +1384,15 @@
               "bearing": 39.76091258060194,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1511,
+              "vehicles": 1011,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 0,
+                "traffic_lights": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "125.92",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "84.25",
+              "traffic_status": "Moyen"
             },
             {
               "id": "56",
@@ -1408,14 +1408,14 @@
               "bearing": 26.52872877082507,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1511,
+              "vehicles": 1252,
               "traffic_conditions": {
                 "traffic_lights": 1,
-                "intersections": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "125.92",
+              "occupancy_rate": "104.33",
               "traffic_status": "Bloqué"
             },
             {
@@ -1432,20 +1432,20 @@
               "bearing": 47.96759611455576,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1721,
+              "vehicles": 1327,
               "traffic_conditions": {
                 "traffic_lights": 2,
                 "intersections": 1,
-                "road_work": false,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "143.42",
+              "occupancy_rate": "110.58",
               "traffic_status": "Bloqué"
             }
           ],
           "distance_km": 0.11806386628513799,
           "id": "Route 4",
-          "avg_occupancy_rate": "120.45",
+          "avg_occupancy_rate": "108.93",
           "traffic_status": "Bloqué"
         },
         {
@@ -1464,14 +1464,14 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1429,
+              "vehicles": 1342,
               "traffic_conditions": {
                 "traffic_lights": 1,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
-                "accidents": true
+                "accidents": false
               },
-              "occupancy_rate": "119.08",
+              "occupancy_rate": "111.83",
               "traffic_status": "Bloqué"
             },
             {
@@ -1488,14 +1488,14 @@
               "bearing": 318.7093236210511,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1476,
+              "vehicles": 1399,
               "traffic_conditions": {
                 "traffic_lights": 0,
-                "intersections": 0,
-                "road_work": true,
+                "intersections": 1,
+                "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "123.00",
+              "occupancy_rate": "116.58",
               "traffic_status": "Bloqué"
             },
             {
@@ -1514,7 +1514,7 @@
               "capacity_per_lane": 600,
               "vehicles": 1199,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 2,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
@@ -1536,24 +1536,24 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1529,
+              "vehicles": 1298,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "127.42",
+              "occupancy_rate": "108.17",
               "traffic_status": "Bloqué"
             }
           ],
           "distance_km": 0.029531076251193136,
           "id": "Route 5",
-          "avg_occupancy_rate": "117.36",
+          "avg_occupancy_rate": "109.13",
           "traffic_status": "Bloqué"
         }
       ],
-      "avg_occupancy": "112.92",
+      "avg_occupancy": "113.67",
       "coordinates": [
         {
           "lat": 33.68984,
@@ -1827,15 +1827,15 @@
               "bearing": 281.3269965871274,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 906,
+              "vehicles": 1335,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 2,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "75.50",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "111.25",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "2",
@@ -1851,14 +1851,14 @@
               "bearing": 282.84060429272853,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1114,
+              "vehicles": 1075,
               "traffic_conditions": {
                 "traffic_lights": 0,
-                "intersections": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "92.83",
+              "occupancy_rate": "89.58",
               "traffic_status": "Moyen"
             },
             {
@@ -1875,14 +1875,14 @@
               "bearing": 287.2316180331463,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1714,
+              "vehicles": 1800,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 2,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "142.83",
+              "occupancy_rate": "150.00",
               "traffic_status": "Bloqué"
             },
             {
@@ -1899,15 +1899,15 @@
               "bearing": 291.83190255580666,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 960,
+              "vehicles": 1277,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "80.00",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "106.42",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "5",
@@ -1923,14 +1923,14 @@
               "bearing": 304.48021866069126,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1539,
+              "vehicles": 1620,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 0,
+                "traffic_lights": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "128.25",
+              "occupancy_rate": "135.00",
               "traffic_status": "Bloqué"
             },
             {
@@ -1947,15 +1947,15 @@
               "bearing": 320.2378976314948,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1134,
+              "vehicles": 1497,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "94.50",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "124.75",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "7",
@@ -1971,14 +1971,14 @@
               "bearing": 330.9829220746475,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1514,
+              "vehicles": 1677,
               "traffic_conditions": {
                 "traffic_lights": 2,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "126.17",
+              "occupancy_rate": "139.75",
               "traffic_status": "Bloqué"
             },
             {
@@ -1995,15 +1995,15 @@
               "bearing": 330.9829390376722,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1800,
+              "vehicles": 874,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 0,
+                "traffic_lights": 2,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "150.00",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "72.83",
+              "traffic_status": "Moyen"
             },
             {
               "id": "9",
@@ -2019,20 +2019,20 @@
               "bearing": 337.41154618466567,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 762,
+              "vehicles": 1351,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 2,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "63.50",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "112.58",
+              "traffic_status": "Bloqué"
             }
           ],
           "distance_km": 0.16943496733217855,
           "id": "Route 1",
-          "avg_occupancy_rate": "105.95",
+          "avg_occupancy_rate": "115.80",
           "traffic_status": "Bloqué"
         },
         {
@@ -2051,14 +2051,14 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1394,
+              "vehicles": 1216,
               "traffic_conditions": {
                 "traffic_lights": 1,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "116.17",
+              "occupancy_rate": "101.33",
               "traffic_status": "Bloqué"
             },
             {
@@ -2075,15 +2075,15 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 877,
+              "vehicles": 1606,
               "traffic_conditions": {
                 "traffic_lights": 2,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "73.08",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "133.83",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "12",
@@ -2099,14 +2099,14 @@
               "bearing": 337.41155441573983,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 859,
+              "vehicles": 928,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 1,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "71.58",
+              "occupancy_rate": "77.33",
               "traffic_status": "Moyen"
             },
             {
@@ -2123,14 +2123,14 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1283,
+              "vehicles": 1686,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 2,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "106.92",
+              "occupancy_rate": "140.50",
               "traffic_status": "Bloqué"
             },
             {
@@ -2147,15 +2147,15 @@
               "bearing": 4.756313890935644,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1024,
+              "vehicles": 1319,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 2,
                 "intersections": 1,
-                "road_work": true,
+                "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "85.33",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "109.92",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "15",
@@ -2171,15 +2171,15 @@
               "bearing": 11.750603212740884,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1138,
+              "vehicles": 1432,
               "traffic_conditions": {
                 "traffic_lights": 1,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "94.83",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "119.33",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "16",
@@ -2195,14 +2195,14 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1322,
+              "vehicles": 1800,
               "traffic_conditions": {
                 "traffic_lights": 2,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "110.17",
+              "occupancy_rate": "150.00",
               "traffic_status": "Bloqué"
             },
             {
@@ -2219,14 +2219,14 @@
               "bearing": 22.588390799100694,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1731,
+              "vehicles": 1277,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 1,
+                "traffic_lights": 0,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "144.25",
+              "occupancy_rate": "106.42",
               "traffic_status": "Bloqué"
             },
             {
@@ -2243,14 +2243,14 @@
               "bearing": 20.294244493871417,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1800,
+              "vehicles": 1680,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 1,
-                "road_work": false,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "150.00",
+              "occupancy_rate": "140.00",
               "traffic_status": "Bloqué"
             },
             {
@@ -2267,15 +2267,15 @@
               "bearing": 33.649058055250975,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1639,
+              "vehicles": 1193,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "136.58",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "99.42",
+              "traffic_status": "Moyen"
             },
             {
               "id": "20",
@@ -2291,14 +2291,14 @@
               "bearing": 33.649030713465834,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 830,
+              "vehicles": 1035,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 0,
+                "traffic_lights": 2,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "69.17",
+              "occupancy_rate": "86.25",
               "traffic_status": "Moyen"
             },
             {
@@ -2315,14 +2315,14 @@
               "bearing": 34.245331055228974,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1616,
+              "vehicles": 1392,
               "traffic_conditions": {
                 "traffic_lights": 0,
                 "intersections": 0,
-                "road_work": false,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "134.67",
+              "occupancy_rate": "116.00",
               "traffic_status": "Bloqué"
             },
             {
@@ -2339,15 +2339,15 @@
               "bearing": 32.90840854010662,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1800,
+              "vehicles": 1074,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 0,
+                "traffic_lights": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "150.00",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "89.50",
+              "traffic_status": "Moyen"
             },
             {
               "id": "23",
@@ -2363,15 +2363,15 @@
               "bearing": 39.76157122156985,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1210,
+              "vehicles": 1090,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 1,
+                "traffic_lights": 0,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "100.83",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "90.83",
+              "traffic_status": "Moyen"
             },
             {
               "id": "24",
@@ -2387,14 +2387,14 @@
               "bearing": 33.64875394059874,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1304,
+              "vehicles": 1272,
               "traffic_conditions": {
                 "traffic_lights": 0,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "108.67",
+              "occupancy_rate": "106.00",
               "traffic_status": "Bloqué"
             },
             {
@@ -2411,14 +2411,14 @@
               "bearing": 27.90006973575322,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1391,
+              "vehicles": 1610,
               "traffic_conditions": {
                 "traffic_lights": 0,
                 "intersections": 0,
                 "road_work": false,
-                "accidents": false
+                "accidents": true
               },
-              "occupancy_rate": "115.92",
+              "occupancy_rate": "134.17",
               "traffic_status": "Bloqué"
             },
             {
@@ -2435,15 +2435,15 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1439,
+              "vehicles": 1037,
               "traffic_conditions": {
                 "traffic_lights": 2,
                 "intersections": 0,
-                "road_work": false,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "119.92",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "86.42",
+              "traffic_status": "Moyen"
             },
             {
               "id": "27",
@@ -2459,14 +2459,14 @@
               "bearing": 39.76150817833599,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1278,
+              "vehicles": 1520,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "106.50",
+              "occupancy_rate": "126.67",
               "traffic_status": "Bloqué"
             },
             {
@@ -2485,10 +2485,10 @@
               "capacity_per_lane": 600,
               "vehicles": 1800,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 2,
                 "intersections": 1,
-                "road_work": true,
-                "accidents": true
+                "road_work": false,
+                "accidents": false
               },
               "occupancy_rate": "150.00",
               "traffic_status": "Bloqué"
@@ -2507,14 +2507,14 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1651,
+              "vehicles": 1585,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
-                "accidents": false
+                "accidents": true
               },
-              "occupancy_rate": "137.58",
+              "occupancy_rate": "132.08",
               "traffic_status": "Bloqué"
             },
             {
@@ -2531,14 +2531,14 @@
               "bearing": 37.1035144823108,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1273,
+              "vehicles": 1616,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 2,
                 "intersections": 0,
                 "road_work": false,
-                "accidents": false
+                "accidents": true
               },
-              "occupancy_rate": "106.08",
+              "occupancy_rate": "134.67",
               "traffic_status": "Bloqué"
             },
             {
@@ -2555,15 +2555,15 @@
               "bearing": 44.14821412005716,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1206,
+              "vehicles": 1184,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "100.50",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "98.67",
+              "traffic_status": "Moyen"
             },
             {
               "id": "32",
@@ -2579,14 +2579,14 @@
               "bearing": 39.76138967177195,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1315,
+              "vehicles": 1471,
               "traffic_conditions": {
-                "traffic_lights": 0,
+                "traffic_lights": 2,
                 "intersections": 1,
-                "road_work": false,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "109.58",
+              "occupancy_rate": "122.58",
               "traffic_status": "Bloqué"
             },
             {
@@ -2603,15 +2603,15 @@
               "bearing": 45.294047437009965,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1427,
+              "vehicles": 1176,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 0,
+                "traffic_lights": 1,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "118.92",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "98.00",
+              "traffic_status": "Moyen"
             },
             {
               "id": "34",
@@ -2627,14 +2627,14 @@
               "bearing": 41.477519159336964,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 914,
+              "vehicles": 916,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "76.17",
+              "occupancy_rate": "76.33",
               "traffic_status": "Moyen"
             },
             {
@@ -2651,14 +2651,14 @@
               "bearing": 39.76125754213939,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1064,
+              "vehicles": 1136,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 0,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "88.67",
+              "occupancy_rate": "94.67",
               "traffic_status": "Moyen"
             },
             {
@@ -2675,14 +2675,14 @@
               "bearing": 31.389441533041804,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1379,
+              "vehicles": 1374,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 0,
+                "traffic_lights": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "114.92",
+              "occupancy_rate": "114.50",
               "traffic_status": "Bloqué"
             },
             {
@@ -2699,14 +2699,14 @@
               "bearing": 31.964818688891228,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1278,
+              "vehicles": 1625,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "106.50",
+              "occupancy_rate": "135.42",
               "traffic_status": "Bloqué"
             },
             {
@@ -2723,14 +2723,14 @@
               "bearing": 26.078201998283078,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1622,
+              "vehicles": 1308,
               "traffic_conditions": {
                 "traffic_lights": 0,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "135.17",
+              "occupancy_rate": "109.00",
               "traffic_status": "Bloqué"
             },
             {
@@ -2747,14 +2747,14 @@
               "bearing": 23.928921020183225,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1661,
+              "vehicles": 1336,
               "traffic_conditions": {
                 "traffic_lights": 1,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "138.42",
+              "occupancy_rate": "111.33",
               "traffic_status": "Bloqué"
             },
             {
@@ -2771,14 +2771,14 @@
               "bearing": 18.407788833942504,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1767,
+              "vehicles": 1614,
               "traffic_conditions": {
                 "traffic_lights": 1,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "147.25",
+              "occupancy_rate": "134.50",
               "traffic_status": "Bloqué"
             },
             {
@@ -2795,15 +2795,15 @@
               "bearing": 26.07807826521173,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 951,
+              "vehicles": 1575,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "79.25",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "131.25",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "42",
@@ -2819,14 +2819,14 @@
               "bearing": 27.112831898567777,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 773,
+              "vehicles": 847,
               "traffic_conditions": {
-                "traffic_lights": 2,
-                "intersections": 0,
+                "traffic_lights": 1,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "64.42",
+              "occupancy_rate": "70.58",
               "traffic_status": "Moyen"
             },
             {
@@ -2843,15 +2843,15 @@
               "bearing": 31.964552174679852,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 986,
+              "vehicles": 1407,
               "traffic_conditions": {
                 "traffic_lights": 1,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "82.17",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "117.25",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "44",
@@ -2867,15 +2867,15 @@
               "bearing": 30.72274988890655,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1083,
+              "vehicles": 1709,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 2,
                 "intersections": 1,
-                "road_work": false,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "90.25",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "142.42",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "45",
@@ -2891,14 +2891,14 @@
               "bearing": 34.73520539340734,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1525,
+              "vehicles": 1670,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "127.08",
+              "occupancy_rate": "139.17",
               "traffic_status": "Bloqué"
             },
             {
@@ -2915,15 +2915,15 @@
               "bearing": 34.73518665783536,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 976,
+              "vehicles": 1620,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
-                "road_work": false,
+                "traffic_lights": 1,
+                "intersections": 0,
+                "road_work": true,
                 "accidents": false
               },
-              "occupancy_rate": "81.33",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "135.00",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "47",
@@ -2939,15 +2939,15 @@
               "bearing": 46.12361549086927,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1355,
+              "vehicles": 964,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "112.92",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "80.33",
+              "traffic_status": "Moyen"
             },
             {
               "id": "48",
@@ -2963,14 +2963,14 @@
               "bearing": 52.58934101937865,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1258,
+              "vehicles": 1408,
               "traffic_conditions": {
                 "traffic_lights": 1,
-                "intersections": 1,
-                "road_work": true,
+                "intersections": 0,
+                "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "104.83",
+              "occupancy_rate": "117.33",
               "traffic_status": "Bloqué"
             },
             {
@@ -2987,15 +2987,15 @@
               "bearing": 47.96741806633719,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1384,
+              "vehicles": 770,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 2,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "115.33",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "64.17",
+              "traffic_status": "Moyen"
             },
             {
               "id": "50",
@@ -3011,15 +3011,15 @@
               "bearing": 52.15265308607155,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1358,
+              "vehicles": 1057,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 0,
+                "traffic_lights": 2,
+                "intersections": 1,
                 "road_work": false,
-                "accidents": false
+                "accidents": true
               },
-              "occupancy_rate": "113.17",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "88.08",
+              "traffic_status": "Moyen"
             },
             {
               "id": "51",
@@ -3035,14 +3035,14 @@
               "bearing": 52.5889582859308,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1800,
+              "vehicles": 1287,
               "traffic_conditions": {
-                "traffic_lights": 2,
+                "traffic_lights": 1,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "150.00",
+              "occupancy_rate": "107.25",
               "traffic_status": "Bloqué"
             },
             {
@@ -3059,14 +3059,14 @@
               "bearing": 51.780486342325844,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1352,
+              "vehicles": 1523,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 0,
+                "traffic_lights": 2,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "112.67",
+              "occupancy_rate": "126.92",
               "traffic_status": "Bloqué"
             },
             {
@@ -3083,15 +3083,15 @@
               "bearing": 50.04667204530966,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1446,
+              "vehicles": 1099,
               "traffic_conditions": {
                 "traffic_lights": 0,
                 "intersections": 1,
                 "road_work": false,
-                "accidents": false
+                "accidents": true
               },
-              "occupancy_rate": "120.50",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "91.58",
+              "traffic_status": "Moyen"
             },
             {
               "id": "54",
@@ -3107,14 +3107,14 @@
               "bearing": 50.09999402523266,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1598,
+              "vehicles": 1487,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 0,
+                "traffic_lights": 1,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "133.17",
+              "occupancy_rate": "123.92",
               "traffic_status": "Bloqué"
             },
             {
@@ -3131,20 +3131,20 @@
               "bearing": 52.000910300297164,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1589,
+              "vehicles": 1147,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "132.42",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "95.58",
+              "traffic_status": "Moyen"
             }
           ],
           "distance_km": 0.8656866066583248,
           "id": "Route 2",
-          "avg_occupancy_rate": "111.82",
+          "avg_occupancy_rate": "112.10",
           "traffic_status": "Bloqué"
         },
         {
@@ -3163,14 +3163,14 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1547,
+              "vehicles": 1353,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 1,
-                "road_work": true,
-                "accidents": true
+                "road_work": false,
+                "accidents": false
               },
-              "occupancy_rate": "128.92",
+              "occupancy_rate": "112.75",
               "traffic_status": "Bloqué"
             },
             {
@@ -3187,15 +3187,15 @@
               "bearing": 130.3120775363011,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1207,
+              "vehicles": 1182,
               "traffic_conditions": {
                 "traffic_lights": 0,
-                "intersections": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "100.58",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "98.50",
+              "traffic_status": "Moyen"
             },
             {
               "id": "58",
@@ -3211,14 +3211,14 @@
               "bearing": 148.4103902648909,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1252,
+              "vehicles": 1378,
               "traffic_conditions": {
                 "traffic_lights": 1,
-                "intersections": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "104.33",
+              "occupancy_rate": "114.83",
               "traffic_status": "Bloqué"
             },
             {
@@ -3235,15 +3235,15 @@
               "bearing": 147.56163910621137,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1008,
+              "vehicles": 1265,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 0,
-                "road_work": true,
+                "traffic_lights": 0,
+                "intersections": 1,
+                "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "84.00",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "105.42",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "60",
@@ -3259,14 +3259,14 @@
               "bearing": 157.4125769142945,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1500,
+              "vehicles": 1340,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 0,
+                "traffic_lights": 1,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "125.00",
+              "occupancy_rate": "111.67",
               "traffic_status": "Bloqué"
             },
             {
@@ -3283,20 +3283,20 @@
               "bearing": 146.58044418537537,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1500,
+              "vehicles": 1450,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 0,
+                "traffic_lights": 2,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "125.00",
+              "occupancy_rate": "120.83",
               "traffic_status": "Bloqué"
             }
           ],
           "distance_km": 0.23343744553640972,
           "id": "Route 3",
-          "avg_occupancy_rate": "111.30",
+          "avg_occupancy_rate": "110.67",
           "traffic_status": "Bloqué"
         },
         {
@@ -3315,15 +3315,15 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1800,
+              "vehicles": 1069,
               "traffic_conditions": {
-                "traffic_lights": 1,
-                "intersections": 1,
+                "traffic_lights": 0,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "150.00",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "89.08",
+              "traffic_status": "Moyen"
             },
             {
               "id": "63",
@@ -3339,14 +3339,14 @@
               "bearing": 226.37147135663062,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1293,
+              "vehicles": 1657,
               "traffic_conditions": {
                 "traffic_lights": 2,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "107.75",
+              "occupancy_rate": "138.08",
               "traffic_status": "Bloqué"
             },
             {
@@ -3363,15 +3363,15 @@
               "bearing": 219.76079153259963,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1317,
+              "vehicles": 1141,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 0,
+                "traffic_lights": 1,
+                "intersections": 1,
                 "road_work": false,
-                "accidents": false
+                "accidents": true
               },
-              "occupancy_rate": "109.75",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "95.08",
+              "traffic_status": "Moyen"
             },
             {
               "id": "65",
@@ -3387,14 +3387,14 @@
               "bearing": 202.58755500068224,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1361,
+              "vehicles": 1300,
               "traffic_conditions": {
-                "traffic_lights": 1,
+                "traffic_lights": 0,
                 "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "113.42",
+              "occupancy_rate": "108.33",
               "traffic_status": "Bloqué"
             },
             {
@@ -3411,15 +3411,15 @@
               "bearing": 195.50065020881152,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 888,
+              "vehicles": 1466,
               "traffic_conditions": {
                 "traffic_lights": 2,
                 "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "74.00",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "122.17",
+              "traffic_status": "Bloqué"
             },
             {
               "id": "67",
@@ -3435,14 +3435,14 @@
               "bearing": 157.4124331781943,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1234,
+              "vehicles": 1281,
               "traffic_conditions": {
-                "traffic_lights": 0,
-                "intersections": 1,
+                "traffic_lights": 2,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "102.83",
+              "occupancy_rate": "106.75",
               "traffic_status": "Bloqué"
             },
             {
@@ -3459,15 +3459,15 @@
               "bearing": 157.41242330212765,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1800,
+              "vehicles": 1129,
               "traffic_conditions": {
                 "traffic_lights": 0,
-                "intersections": 1,
+                "intersections": 0,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "150.00",
-              "traffic_status": "Bloqué"
+              "occupancy_rate": "94.08",
+              "traffic_status": "Moyen"
             },
             {
               "id": "69",
@@ -3483,24 +3483,24 @@
               "bearing": 0,
               "lanes": 2,
               "capacity_per_lane": 600,
-              "vehicles": 1130,
+              "vehicles": 1472,
               "traffic_conditions": {
                 "traffic_lights": 0,
-                "intersections": 0,
+                "intersections": 1,
                 "road_work": false,
                 "accidents": false
               },
-              "occupancy_rate": "94.17",
-              "traffic_status": "Moyen"
+              "occupancy_rate": "122.67",
+              "traffic_status": "Bloqué"
             }
           ],
           "distance_km": 0.05450186156266293,
           "id": "Route 4",
-          "avg_occupancy_rate": "112.74",
+          "avg_occupancy_rate": "109.53",
           "traffic_status": "Bloqué"
         }
       ],
-      "avg_occupancy": "110.45",
+      "avg_occupancy": "112.03",
       "coordinates": [
         {
           "lat": 33.68984,

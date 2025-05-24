@@ -677,7 +677,7 @@
             document.getElementById('direction-indicator').style.display = 'none';
         }
 
-        fetch('/traffic-data')
+        fetch('/traffic-data.json')
             .then(response => response.json())
             .then(data => {
                 trafficData = data;
